@@ -1,0 +1,3 @@
+    1. Each menu will have a number corresponding to it. To select each menu, type a corresponding number to that menu and press enter.
+    2. in each page of menu, you can always go back by option 0.
+    3. follow the menu to navigate around the program.
